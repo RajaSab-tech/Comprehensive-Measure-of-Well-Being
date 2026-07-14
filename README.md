@@ -46,8 +46,8 @@ Getting Started
 
 Clone the repository:
 
-bashgit clone https://github.com/uryapraveen/A-Comprehensive-Measure-of-Well-Being
-cd A-Comprehensive-Measure-of-Well-Being
+bashgit clone https://github.com/RajaSab-tech/Comprehensive-Measure-of-Well-Being 
+cd Comprehensive-Measure-of-Well-Being
 
 Explore the notebooks in the Development Phase folder to see the data preprocessing, model training, and evaluation steps. To run the web application locally, install the dependencies listed for the Flask app (see the Development Phase folder) and run:
 
